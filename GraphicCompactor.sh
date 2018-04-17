@@ -1,7 +1,7 @@
 #!/bin/bash
-#                                                                                                    by Tiago
-#                                                                                             A.F. CAMPUS UFC
-#                                                                                             QUIXADÁ 25/11/2017
+#                                                                                                By Tiago A.F.
+#                                                                                             UFC-CAMPUS-QUIXADÁ
+#                                                                                               DATE 25/11/2017
  clear
  DIR=$(dialog --stdout --title "Select the desired directory" --fselect / 12 100)
  if [ $? == 1 ]; then

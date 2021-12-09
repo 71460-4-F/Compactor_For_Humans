@@ -1,4 +1,6 @@
 # compactor_for_humans
+[![Visits Badge](https://badges.pufler.dev/visits/71460-4-F/Compactor_For_Humans)](https://badges.pufler.dev)
+
 Compression by dialog windows.
 
 
